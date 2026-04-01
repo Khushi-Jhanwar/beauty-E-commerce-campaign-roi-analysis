@@ -1,4 +1,4 @@
-# Marketing Campaign Performance & ROI Analysis (Customers Insights & Revenue Impact)
+# Beauty E-commerce Campaign Performance & ROI Analysis (Customers Insights & Revenue Impact)
 
 This project analyzes marketing campaign performance for three beauty brands: Nykaa, Purplle, and Tira.  
 The analysis focuses on evaluating campaign effectiveness, revenue performance, and customer engagement using SQL and Power BI.
